@@ -1,0 +1,5 @@
+Cpf:
+Numero de telefone:
+Email:
+Qr:
+Chave aleatoria:
